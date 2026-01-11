@@ -1,6 +1,6 @@
-import { useState, useEffect } from "react";
+import React, { useState } from "react";
 
-function App() {
+function React_Ejercicio9() {
   // Cargar tareas desde localStorage al inicio
   const tareasIniciales = () => {
     const tareasGuardadas = localStorage.getItem("tareas");
@@ -91,4 +91,4 @@ function App() {
   );
 }
 
-export default App;
+export default React_Ejercicio9;

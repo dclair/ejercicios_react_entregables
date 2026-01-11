@@ -1,6 +1,6 @@
-import { useState } from "react";
+import React, { useState } from "react";  
 
-function App() {
+function React_Ejercicio3() {
   // Estado para almacenar los elementos de la lista
   const [lista, setLista] = useState([]);
   // Estado para almacenar el texto del input
@@ -78,4 +78,4 @@ function App() {
   );
 }
 
-export default App;
+export default React_Ejercicio3;

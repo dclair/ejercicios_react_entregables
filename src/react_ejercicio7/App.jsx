@@ -1,6 +1,6 @@
-import { useState } from "react";
+import React, { useState } from "react";
 
-function App() {
+function React_Ejercicio7() {
   // Estado para la longitud de la contraseña
   const [longitud, setLongitud] = useState("");
   // Estado para la contraseña generada
@@ -69,4 +69,4 @@ function App() {
   );
 }
 
-export default App;
+export default React_Ejercicio7;

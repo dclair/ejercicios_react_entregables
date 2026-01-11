@@ -1,6 +1,6 @@
-import { useState } from "react";
+import React, { useState } from "react";
 
-function App() {
+function React_Ejercicio5() {
   // Estados para los dos números y el resultado
   const [num1, setNum1] = useState("");
   const [num2, setNum2] = useState("");
@@ -98,4 +98,4 @@ function App() {
   );
 }
 
-export default App;
+export default React_Ejercicio5;

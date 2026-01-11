@@ -1,6 +1,6 @@
-import { useState } from "react";
+import React, { useState } from "react";
 
-function App() {
+function React_Ejercicio4() {
   // Lista inicial de elementos
   const elementosIniciales = ["Orangutan", "Perro", "Gato", "Pez", "Conejo", "Loro", "Tortuga", "Supercalifagilisticoespialidoso","Zetepeta"];
 
@@ -57,4 +57,4 @@ function App() {
   );
 }
 
-export default App;
+export default React_Ejercicio4;

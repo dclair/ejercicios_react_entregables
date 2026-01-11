@@ -1,6 +1,6 @@
-import { useState, useRef } from "react";
+import React, { useState } from "react";
 
-function App() {
+function React_Ejercicio6() {
   // Estado para tiempo en segundos
   const [segundos, setSegundos] = useState(0);
   const intervaloRef = useRef(null); // referencia para el setInterval
@@ -57,4 +57,4 @@ function App() {
   );
 }
 
-export default App;
+export default React_Ejercicio6;

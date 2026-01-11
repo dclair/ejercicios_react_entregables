@@ -1,6 +1,6 @@
-import { useState } from "react";
+import React, { useState } from "react";
 
-function App() {
+function React_Ejercicio8() {
   // Estado para almacenar el texto ingresado
   const [texto, setTexto] = useState("");
   // Estado para almacenar el conteo de palabras
@@ -56,4 +56,4 @@ function App() {
   );
 }
 
-export default App;
+export default React_Ejercicio8;

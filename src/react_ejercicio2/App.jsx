@@ -1,6 +1,6 @@
-import { useState } from "react";
+import React, { useState } from "react";
 
-function App() {
+function React_Ejercicio2() {
   const [contador, setContador] = useState(0);
 
   const incrementar = () => {
@@ -40,6 +40,6 @@ function App() {
   );
 }
 
-export default App;
+export default React_Ejercicio2;
 
 

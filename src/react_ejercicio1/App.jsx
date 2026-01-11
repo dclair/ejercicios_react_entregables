@@ -1,6 +1,6 @@
-import { useState } from "react";
+import React, { useState } from "react";
 
-function App() {
+function React_Ejercicio1() {
   const [color, setColor] = useState("#ffffff");
 
   const cambiarColor = () => {
@@ -33,5 +33,5 @@ function App() {
   );
 }
 
-export default App;
+export default React_Ejercicio1;
 
