@@ -35,7 +35,7 @@ function React_Ejercicio2() {
         <button onClick={reiniciar}>Reiniciar</button>
       </div>
 
-      <a href="/">Volver al menú</a>
+      <a href="./">Volver al menú</a>
     </div>
   );
 }

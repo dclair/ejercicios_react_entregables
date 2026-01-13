@@ -51,7 +51,7 @@ function React_Ejercicio8() {
       <p>Caracteres (sin espacios): {caracteres}</p>
 
       {/* Enlace para volver al menú */}
-      <a href="/">Volver al menú</a>
+      <a href="./">Volver al menú</a>
     </div>
   );
 }

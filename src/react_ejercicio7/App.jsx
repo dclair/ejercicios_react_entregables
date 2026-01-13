@@ -64,7 +64,7 @@ function React_Ejercicio7() {
       <p style={{ color: error ? "red" : "black" }}>{contrasena}</p>
 
       {/* Enlace para volver al menú */}
-      <a href="/">Volver al menú</a>
+      <a href="./">Volver al menú</a>
     </div>
   );
 }

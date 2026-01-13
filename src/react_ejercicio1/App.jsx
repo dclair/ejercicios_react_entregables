@@ -28,7 +28,7 @@ function React_Ejercicio1() {
 
       <p>Color actual: {color}</p>
 
-      <a href="/">Volver al menú</a>
+      <a href="./">Volver al menú</a>
     </div>
   );
 }
