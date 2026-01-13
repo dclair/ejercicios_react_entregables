@@ -6,7 +6,7 @@ import Menu from "./Menu.jsx";
 // Importa cada ejercicio desde sus carpetas renombradas
 import React_Ejercicio1 from "./react_ejercicio1/App.jsx";
 import React_Ejercicio2 from "./react_ejercicio2/App.jsx";
-import React_Ejercicio3 from " ./react_ejercicio3/App.jsx";
+import React_Ejercicio3 from "./react_ejercicio3/App.jsx";
 import React_Ejercicio4 from "./react_ejercicio4/App.jsx";
 import React_Ejercicio5 from "./react_ejercicio5/App.jsx";
 import React_Ejercicio6 from "./react_ejercicio6/App.jsx";

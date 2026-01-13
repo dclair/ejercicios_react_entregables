@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useRef } from "react";
 
 function React_Ejercicio6() {
   // Estado para tiempo en segundos
