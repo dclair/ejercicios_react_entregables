@@ -9,9 +9,14 @@ const __dirname = dirname(__filename);
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/ejercicios_react_entregables/",
+  base: "./",
   build: {
     outDir: 'dist',
     emptyOutDir: true,
+  },
+  server: {
+    headers: {
+      "Content-Security-Policy": "default-src 'self'; img-src 'self' data: https:;"
+    }
   }
 });

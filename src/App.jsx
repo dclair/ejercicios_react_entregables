@@ -17,7 +17,7 @@ import React_Ejercicio9 from "./react_ejercicio9/App.jsx";
 
 function App() {
   return (
-    <BrowserRouter basename="/ejercicios_react_entregables/">
+    <BrowserRouter basename="/ejercicios_react_entregables">
       <Routes>
         {/* Menú principal */}
         <Route path="/" element={<Menu />} />
