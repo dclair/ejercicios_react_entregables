@@ -73,7 +73,7 @@ function React_Ejercicio3() {
       </ul>
 
       {/* Enlace para volver al menú */}
-      
+      <a href="/">Volver al menú</a>
     </div>
   );
 }

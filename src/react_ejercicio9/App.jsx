@@ -86,7 +86,7 @@ function React_Ejercicio9() {
 
       <button onClick={limpiarCompletadas}>Limpiar tareas completadas</button>
 
-     
+      <a href="/">Volver al menú</a>
     </div>
   );
 }
