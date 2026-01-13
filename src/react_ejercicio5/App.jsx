@@ -93,7 +93,7 @@ function React_Ejercicio5() {
       <p>Resultado: {resultado}</p>
 
       {/* Enlace para volver al menú */}
-      <a href="/">Volver al menú</a>
+     
     </div>
   );
 }

@@ -52,7 +52,7 @@ function React_Ejercicio6() {
         <button onClick={reiniciar}>Reiniciar</button>
       </div>
 
-      <a href="/">Volver al menú</a>
+        
     </div>
   );
 }
